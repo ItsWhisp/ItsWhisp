@@ -25,10 +25,7 @@
 
 ###
 
-- 🖥️ Intento de desarollador Front-End
-- 🖥️ Intento de desarollador Front-End
-- 🖥️ Intento de desarollador Front-End
-- 🖥️ Intento de desarollador Front-End
+<p align="left"><strong>🖥️ Intento de desarollador Front-End<br>🖥️ Intento de desarollador Front-End<br>🖥️ Intento de desarollador Front-End<br>🖥️ Intento de desarollador Front-End</strong></p>
 
 ###
 
