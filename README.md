@@ -59,7 +59,7 @@
 
 <br clear="both">
 
-<sub align="center">he de ahi "intento" de desarollador, lol</sub>
+<sub><p align="center">he de ahi "intento" de desarollador, lol</p></sub>
 
 ###
 
