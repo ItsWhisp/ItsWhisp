@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">✨ ItsWhisp</h2>
+<h1 align="left">✨ ItsWhisp</h1>
 
 ###
 
@@ -22,6 +22,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  />
   </a>
 </div>
+
+#####
 
 <p align="left">🖥️ Intento de desarollador Front-End<br>🖥️ Intento de desarollador Front-End<br>🖥️ Intento de desarollador Front-End<br>🖥️ Intento de desarollador Front-End</p>
 
@@ -55,11 +57,9 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
 
-###
-
 <br clear="both">
 
-<p align="center">he de ahi "intento" de desarollador, lol</p>
+<sub align="center">he de ahi "intento" de desarollador, lol</sub>
 
 ###
 
