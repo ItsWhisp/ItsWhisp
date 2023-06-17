@@ -4,12 +4,12 @@
 
 ###
 
-<h2 align="left">&emsp;✨ ItsWhisp</h2>
+<h2 align="left">✨ ItsWhisp</h2>
 
 ###
 
 <div align="left">
-&emsp;
+
   <a href="https://t.me/yahirag" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="42" height="30" alt="telegram logo" />
   </a>
@@ -27,9 +27,9 @@
 ###
 
 <p align="left"><strong>
-&emsp;&ensp;<img src="https://cdn3.emoji.gg/emojis/9669-154-konatayawn.gif" height="18px"></img> Intento de desarollador Front-End<br>
-&emsp;&ensp;<img height="14" src="https://cdn3.emoji.gg/emojis/1038-costarica-flag.gif" /> Soy de Costa Rica<br>
-&emsp;&ensp;<img height="18" src="https://win98icons.alexmeub.com/icons/png/computer_2_cool-4.png" /> <a href="https://whisp.jorge603.xyz">whisp.jorge603.xyz<br></a>
+&ensp;<img src="https://cdn3.emoji.gg/emojis/9669-154-konatayawn.gif" height="18px"></img> Intento de desarollador Front-End<br>
+&ensp;<img height="14" src="https://cdn3.emoji.gg/emojis/1038-costarica-flag.gif" /> Soy de Costa Rica<br>
+&ensp;<img height="18" src="https://win98icons.alexmeub.com/icons/png/computer_2_cool-4.png" /> <a href="https://whisp.jorge603.xyz">whisp.jorge603.xyz<br></a>
 </strong></p>
 
 ###
@@ -54,6 +54,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
 </div>
+
+###
 
 <sub>&emsp;&emsp;~~he de ahi el porque del "intento" de desarollador, lol~~</sub>
 
