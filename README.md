@@ -23,8 +23,6 @@
   </a>
 </div>
 
-###
-
 <p align="left">🖥️ Intento de desarollador Front-End<br>🖥️ Intento de desarollador Front-End<br>🖥️ Intento de desarollador Front-End<br>🖥️ Intento de desarollador Front-End</p>
 
 ###
