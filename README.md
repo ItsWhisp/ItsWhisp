@@ -36,6 +36,12 @@
 
 <br clear="both">
 
+<br>
+
+#
+
+<br>
+
 <img align="right" height="240" src="https://64.media.tumblr.com/dc29c4b59317a8c0e40b3ffa1595c93e/tumblr_p6y3l0QExY1whob5so1_500.gif" />
 
 <h2 align="right">👨‍💻 Actualmente Uso&emsp;</h2>
@@ -53,17 +59,19 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
 &emsp;&ensp;
+<br>
+<sub><s>he de ahi el porque del "intento" de desarollador, lol</s>&emsp;&emsp;</sub>
 </div>
 
-###
-
-<sub>~~he de ahi el porque del "intento" de desarollador, lol~~&emsp;&emsp;</sub>
 
 <br clear="both">
 
-###
 
-<br clear="both">
+<br>
+
+#
+
+<br>
 
 <img align="left" height="240" src="https://media.tenor.com/2PB70c2DvQkAAAAC/lucky-star-anime.gif" />
 
@@ -83,3 +91,11 @@
 <br clear="both">
 
 ###
+
+<br clear="both">
+
+<h1 align=center><img height="24" src="https://i.gyazo.com/85e7ce9196ae635161fec921602903a7.png" /> Mis estadisticas de GitHub</h1>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ItsWhisp&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&locale=es&custom_title=Estadisticas+de+ItsWhisp&rank_icon=github&card_width=600&border_color=313244">
+</div>
