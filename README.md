@@ -1,14 +1,14 @@
 <br clear="both">
 
-<img align="right" height="250" src="https://raw.githubusercontent.com/ItsWhisp/ItsWhisp/main/assets/img/konata.png"  />
+<img align="left" height="250" src="https://raw.githubusercontent.com/ItsWhisp/ItsWhisp/main/assets/img/konata.png"  />
 
 ###
 
-<h1 align="left">✨ ItsWhisp</h1>
+<h2 align="left">✨ ItsWhisp</h2>
 
 ###
 
-<div>
+<div align="left">
   <a href="https://t.me/yahirag" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="42" height="30" alt="telegram logo"  />
   </a>
@@ -23,7 +23,7 @@
   </a>
 </div>
 
-#####
+###
 
 <p align="left">🖥️ Intento de desarollador Front-End<br>🖥️ Intento de desarollador Front-End<br>🖥️ Intento de desarollador Front-End<br>🖥️ Intento de desarollador Front-End</p>
 
@@ -59,7 +59,7 @@
 
 <br clear="both">
 
-<sub><p align="center">he de ahi "intento" de desarollador, lol</p></sub>
+<sup><p align="center">he de ahi "intento" de desarollador, lol</p></sup>
 
 ###
 
