@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="left" height="250" src="https://raw.githubusercontent.com/ItsWhisp/ItsWhisp/main/assets/img/konata.png"  />
+<img align="left" height="240" src="https://raw.githubusercontent.com/ItsWhisp/ItsWhisp/main/assets/img/konata.png"  />
 
 ###
 
@@ -23,9 +23,7 @@
   </a>
 </div>
 
-###
-
-<p align="left">🖥️ Intento de desarollador Front-End<br>🖥️ Intento de desarollador Front-End<br>🖥️ Intento de desarollador Front-End<br>🖥️ Intento de desarollador Front-End</p>
+<p align="left"><strong>🖥️ Intento de desarollador Front-End<br>🖥️ Intento de desarollador Front-End<br>🖥️ Intento de desarollador Front-End<br>🖥️ Intento de desarollador Front-End</strong></p>
 
 ###
 
