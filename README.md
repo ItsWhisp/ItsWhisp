@@ -26,7 +26,11 @@
 
 ###
 
-<p align="left"><strong>&emsp;&ensp;🖥️ Intento de desarollador Front-End<br>&emsp;&ensp;🖥️ Intento de desarollador Front-End<br>&emsp;&ensp;🖥️ Intento de desarollador Front-End<br>&emsp;&ensp;🖥️ Intento de desarollador Front-End</strong></p>
+<p align="left"><strong>
+&emsp;&ensp;<img src="https://cdn3.emoji.gg/emojis/9669-154-konatayawn.gif" height="18px"></img> Intento de desarollador Front-End<br>
+&emsp;&ensp;<img height="14" src="https://cdn3.emoji.gg/emojis/1038-costarica-flag.gif" /> Soy de Costa Rica<br>
+&emsp;&ensp;<img height="18" src="https://win98icons.alexmeub.com/icons/png/computer_2_cool-4.png" /> <a href="https://whisp.jorge603.xyz">whisp.jorge603.xyz<br></a>
+</strong></p>
 
 ###
 
@@ -51,7 +55,7 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
 </div>
 
-<sub>&emsp;&emsp;~~...he de ahi el porque del "intento" de desarollador... lol~~</sub>
+<sub>&emsp;&emsp;~~he de ahi el porque del "intento" de desarollador, lol~~</sub>
 
 <br clear="both">
 
