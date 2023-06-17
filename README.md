@@ -32,7 +32,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" src="https://64.media.tumblr.com/dc29c4b59317a8c0e40b3ffa1595c93e/tumblr_p6y3l0QExY1whob5so1_500.gif"  />
+  <img src="https://64.media.tumblr.com/dc29c4b59317a8c0e40b3ffa1595c93e/tumblr_p6y3l0QExY1whob5so1_500.gif"  />
 </div>
 
 ###
@@ -84,7 +84,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" src="https://media.tenor.com/2PB70c2DvQkAAAAC/lucky-star-anime.gif"  />
+  <img src="https://media.tenor.com/2PB70c2DvQkAAAAC/lucky-star-anime.gif"  />
 </div>
 
 ###
