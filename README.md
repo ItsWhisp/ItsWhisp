@@ -34,26 +34,24 @@
 
 <img align="left" height="240" src="https://64.media.tumblr.com/dc29c4b59317a8c0e40b3ffa1595c93e/tumblr_p6y3l0QExY1whob5so1_500.gif" />
 
-###
-
 <h2 align="left">&emsp;👨‍💻 Actualmente Uso</h2>
 
 ###
 
 <div align="left">
 &emsp;&ensp;
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=electron" height="30" alt="electron logo" />
+  <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
 </div>
 
-<sub>&emsp;&emsp;...he de ahi el porque del "intento" de desarollador... lol</sub>
+<sub>&emsp;&emsp;~~...he de ahi el porque del "intento" de desarollador... lol~~</sub>
 
 <br clear="both">
 
@@ -63,18 +61,16 @@
 
 <img align="right" height="240" src="https://media.tenor.com/2PB70c2DvQkAAAAC/lucky-star-anime.gif" />
 
-###
-
 <h2 align="right">💭 Busco Aprender&emsp;</h2>
 
 ###
 
 <div align="right">
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" />
   &emsp;&ensp;
 </div>
 
