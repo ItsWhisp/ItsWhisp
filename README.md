@@ -55,7 +55,10 @@
 
 <sub>&emsp;&emsp;...he de ahi el porque del "intento" de desarollador... lol</sub>
 
+<br clear="both">
+
 ###
+
 <br clear="both">
 
 <img align="right" height="240" src="https://media.tenor.com/2PB70c2DvQkAAAAC/lucky-star-anime.gif" />
@@ -74,26 +77,6 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo" />
   &emsp;&ensp;
 </div>
-
-###
-
-<br clear="both">
-
-<h2 align="center">💭 Busco Aprender</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" />
-</div>
-
-###
 
 <br clear="both">
 
