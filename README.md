@@ -23,6 +23,9 @@
 </div>
 
 <p align="left"><strong>
+  
+  ###
+  
 &ensp;&nbsp;<img src="https://cdn3.emoji.gg/emojis/9669-154-konatayawn.gif" height="18px"></img> Intento de desarollador Front-End<br>
 &ensp;&nbsp;<img width="18" height="14" src="https://cdn3.emoji.gg/emojis/1038-costarica-flag.gif" /> Soy de Costa Rica<br>
 &ensp;&nbsp;<img height="18" src="https://win98icons.alexmeub.com/icons/png/computer_2_cool-4.png" /> <a href="https://whisp.jorge603.xyz" target="_blank">whisp.jorge603.xyz<br></a>
