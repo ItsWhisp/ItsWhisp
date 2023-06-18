@@ -28,8 +28,6 @@
 
 &ensp;![Vistas del Perfil](https://views.igorkowalczyk.vercel.app/api/badge/ItsWhisp?style=for-the-badge&logo=github&color=cba6f7&logoColor=D9E0EE&labelColor=302D41&label=Vistas+del+Perfil)
 
-###
-
 <p align="left"><strong>
 &ensp;<img src="https://cdn3.emoji.gg/emojis/9669-154-konatayawn.gif" height="18px"></img> Intento de desarollador Front-End<br>
 &ensp;<img width="18" height="14" src="https://cdn3.emoji.gg/emojis/1038-costarica-flag.gif" /> Soy de Costa Rica<br>
