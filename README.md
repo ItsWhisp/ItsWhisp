@@ -25,7 +25,7 @@
 
 &ensp;<img src="https://cdn3.emoji.gg/emojis/9669-154-konatayawn.gif" height="18px"></img> Intento de desarollador Front-End<br>
 &ensp;<img width="18" height="14" src="https://cdn3.emoji.gg/emojis/1038-costarica-flag.gif" /> Soy de Costa Rica<br>
-&ensp;<img height="18" src="https://win98icons.alexmeub.com/icons/png/computer_2_cool-4.png" /> <a href="https://whisp.jorge603.xyz">whisp.jorge603.xyz<br></a>
+&ensp;<img height="18" src="https://win98icons.alexmeub.com/icons/png/computer_2_cool-4.png" /> <a href="https://whisp.jorge603.xyz" target="_blank">whisp.jorge603.xyz<br></a>
 </strong></p>
 
 <br clear="both">
@@ -33,7 +33,7 @@
 <h1 align=center><img height="22" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6cc3c481a15a141738_icon_clyde_white_RGB.png" /> Mi perfil de Discord</h1>
 
 <div align="center">
-<a href="https://discord.com/users/917701219160588319">
+<a href="https://discord.com/users/917701219160588319"target="_blank">
 <img src="https://lanyard.cnrad.dev/api/917701219160588319?bg=181825&idleMessage=No+me+encuentro+haciendo+nada+actualmente!" alt="Mi perfil de Discord">
 </a>
 
@@ -112,7 +112,7 @@
 <a href="https://github.com/ItsWhisp/ItsWhisp/tree/pagina">Pagina Personal </a>
 <img height="18" src="https://win98icons.alexmeub.com/icons/png/computer_2_cool-4.png" />
 &ensp;&emsp;<br>
-<a href="https://whisp.jorge603.xyz">Jorge#603 GDPS </a>
+<a href="https://whisp.jorge603.xyz" target="_blank">Jorge#603 GDPS </a>
 <img height="18" src="https://jorge603.xyz/img/hotlink-ok/jorge.gif" />
 &ensp;&emsp;<br>
 </strong></p>
