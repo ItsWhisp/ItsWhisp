@@ -2,33 +2,29 @@
 
 <img align="left" height="240" src="https://raw.githubusercontent.com/ItsWhisp/ItsWhisp/main/assets/img/konata.png" />
 
-###
-
 <h2 align="left">✨ ItsWhisp</h2>
-
-###
-
-<div align="left">
-
-  <a href="https://t.me/yahirag" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="42" height="30" alt="telegram logo" />
-  </a>
-  <a href="https://twitter.com/whispgd_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo" />
-  </a>
-  <a href="https://jorge603.xyz/discord" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo" />
-  </a>
-  <a href="https://youtube.com/@ItsWhisp" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo" />
-  </a>
-</div>
-
-###
 
 &ensp;![Vistas del Perfil](https://views.igorkowalczyk.vercel.app/api/badge/ItsWhisp?style=for-the-badge&logo=github&color=cba6f7&logoColor=D9E0EE&labelColor=302D41&label=Vistas+del+Perfil)
 
+<div align="left">
+  <a href="https://t.me/yahirag" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" height="24" alt="telegram logo" />
+  </a>
+  <a href="https://twitter.com/whispgd_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="24" alt="twitter logo" />
+  </a>
+  <a href="https://jorge603.xyz/discord" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="24" alt="discord logo" />
+  </a>
+  <a href="https://youtube.com/@ItsWhisp" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="24" alt="youtube logo" />
+  </a>
+</div>
+
 <p align="left"><strong>
+
+###
+
 &ensp;<img src="https://cdn3.emoji.gg/emojis/9669-154-konatayawn.gif" height="18px"></img> Intento de desarollador Front-End<br>
 &ensp;<img width="18" height="14" src="https://cdn3.emoji.gg/emojis/1038-costarica-flag.gif" /> Soy de Costa Rica<br>
 &ensp;<img height="18" src="https://win98icons.alexmeub.com/icons/png/computer_2_cool-4.png" /> <a href="https://whisp.jorge603.xyz">whisp.jorge603.xyz<br></a>
