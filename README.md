@@ -28,8 +28,6 @@
 &ensp;<img height="18" src="https://win98icons.alexmeub.com/icons/png/computer_2_cool-4.png" /> <a href="https://whisp.jorge603.xyz">whisp.jorge603.xyz<br></a>
 </strong></p>
 
-###
-
 <br clear="both">
 
 <h1 align=center><img height="22" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6cc3c481a15a141738_icon_clyde_white_RGB.png" /> Mi perfil de Discord</h1>
@@ -43,8 +41,6 @@
 
 <p>En caso de que mi discriminador desaparezca, probablemente puedas encontrarme como <strong>@ItsWhisp</strong></p>
 </div>
-
-<br>
 
 #
 
