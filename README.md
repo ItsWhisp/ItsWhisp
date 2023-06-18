@@ -26,7 +26,7 @@
 
 ###
 
-&ensp;![Vistas del Perfil](https://views.igorkowalczyk.vercel.app/api/badge/ItsWhisp?style=for-the-badge&logo=github&color=cba6f7&logoColor=D9E0EE&labelColor=302D41)
+&ensp;![Vistas del Perfil](https://views.igorkowalczyk.vercel.app/api/badge/ItsWhisp?style=for-the-badge&logo=github&color=cba6f7&logoColor=D9E0EE&labelColor=302D41&label=Vistas+del+Perfil)
 
 ###
 
