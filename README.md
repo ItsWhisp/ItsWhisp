@@ -39,6 +39,19 @@
 ###
 
 <br clear="both">
+<br>
+
+<h1 align=center><img height="22" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6cc3c481a15a141738_icon_clyde_white_RGB.png" /> Mi perfil de Discord</h1>
+
+<div align="center">
+<a href="https://discord.com/users/917701219160588319">
+<img src="https://lanyard.cnrad.dev/api/917701219160588319?bg=181825&idleMessage=No+me+encuentro+haciendo+nada+actualmente!" alt="Mi perfil de Discord">
+</a>
+
+<br>
+
+<p>En caso de que mi discriminador desaparezca, probablemente puedas encontrarme como <strong>@ItsWhisp</strong></p>
+</div>
 
 <br>
 
@@ -104,7 +117,7 @@
 
 <img align="right" height="230" src="https://64.media.tumblr.com/b3df68ef0eae6210fcb3a62bc46dfcdf/tumblr_plfsim3Ite1skbmyho1_r5_400.gif" />
 
-<h2 align="right">📦 Mis Proyectos&emsp;</h2>
+<h2 align="right">📦 Proyectos&emsp;</h2>
 
 ###
 
