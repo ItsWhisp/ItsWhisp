@@ -30,7 +30,12 @@
 
 <br clear="both">
 
-<h1 align=center><img height="22" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6cc3c481a15a141738_icon_clyde_white_RGB.png" /> Mi perfil de Discord</h1>
+<h1 align=center>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/img/icons/discord-light.png">
+<img height="22" src="assets/img/icons/discord-dark.png" />
+</picture>
+ Mi perfil de Discord</h1>
 
 <div align="center">
 <a href="https://discord.com/users/917701219160588319"target="_blank">
@@ -123,7 +128,12 @@
 
 <br>
 
-<h1 align=center><img height="24" src="https://i.gyazo.com/85e7ce9196ae635161fec921602903a7.png" /> Mis estadisticas de GitHub</h1>
+<h1 align=center>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/img/icons/github-light.png">
+<img height="22" src="assets/img/icons/github-dark.png" />
+</picture>
+ Mis estadisticas de GitHub</h1>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ItsWhisp&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&locale=es&custom_title=Estadisticas+de+ItsWhisp&rank_icon=github&card_width=600&border_color=313244">
