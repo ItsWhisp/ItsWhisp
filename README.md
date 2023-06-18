@@ -31,7 +31,6 @@
 ###
 
 <br clear="both">
-<br>
 
 <h1 align=center><img height="22" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6cc3c481a15a141738_icon_clyde_white_RGB.png" /> Mi perfil de Discord</h1>
 
