@@ -31,7 +31,7 @@
 
 <h1 align=center>
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/img/icons/discord-light.png">
+<source media="(prefers-color-scheme: dark)" srcset="./assets/img/icons/discord-light.png">
 <img height="22" src="assets/img/icons/discord-dark.png" />
 </picture>
  Mi perfil de Discord</h1>
@@ -129,7 +129,7 @@
 
 <h1 align=center>
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/img/icons/github-light.png">
+<source media="(prefers-color-scheme: dark)" srcset="./assets/img/icons/github-light.png">
 <img height="22" src="assets/img/icons/github-dark.png" />
 </picture>
  Mis estadisticas de GitHub</h1>
