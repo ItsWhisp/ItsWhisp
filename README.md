@@ -26,9 +26,13 @@
 
 ###
 
+&ensp;![Vistas del Perfil](https://views.igorkowalczyk.vercel.app/api/badge/ItsWhisp?style=for-the-badge&logo=github&color=cba6f7&logoColor=D9E0EE&labelColor=302D41)
+
+###
+
 <p align="left"><strong>
 &ensp;<img src="https://cdn3.emoji.gg/emojis/9669-154-konatayawn.gif" height="18px"></img> Intento de desarollador Front-End<br>
-&ensp;<img height="14" src="https://cdn3.emoji.gg/emojis/1038-costarica-flag.gif" /> Soy de Costa Rica<br>
+&ensp;<img width="18" height="14" src="https://cdn3.emoji.gg/emojis/1038-costarica-flag.gif" /> Soy de Costa Rica<br>
 &ensp;<img height="18" src="https://win98icons.alexmeub.com/icons/png/computer_2_cool-4.png" /> <a href="https://whisp.jorge603.xyz">whisp.jorge603.xyz<br></a>
 </strong></p>
 
@@ -92,7 +96,32 @@
 
 ###
 
+<br>
+
+#
+
+<br>
+
+<img align="right" height="230" src="https://64.media.tumblr.com/b3df68ef0eae6210fcb3a62bc46dfcdf/tumblr_plfsim3Ite1skbmyho1_r5_400.gif" />
+
+<h2 align="right">📦 Mis Proyectos&emsp;</h2>
+
+###
+
+<p align="right"><strong>
+<a href="https://whisp.jorge603.xyz">Pagina Personal </a>
+<img height="18" src="https://win98icons.alexmeub.com/icons/png/computer_2_cool-4.png" />
+&ensp;&emsp;<br>
+<a href="https://whisp.jorge603.xyz">Jorge#603 GDPS </a>
+<img height="18" src="https://jorge603.xyz/img/hotlink-ok/jorge.gif" />
+&ensp;&emsp;<br>
+</strong></p>
+
 <br clear="both">
+
+###
+
+<br>
 
 <h1 align=center><img height="24" src="https://i.gyazo.com/85e7ce9196ae635161fec921602903a7.png" /> Mis estadisticas de GitHub</h1>
 
