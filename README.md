@@ -117,7 +117,7 @@
 <a href="https://github.com/ItsWhisp/ItsWhisp/tree/pagina">Pagina Personal </a>
 <img height="18" src="https://win98icons.alexmeub.com/icons/png/computer_2_cool-4.png" />
 &ensp;&emsp;<br>
-<a href="https://whisp.jorge603.xyz" target="_blank">Jorge#603 GDPS </a>
+<a href="https://jorge603.xyz/gdpserver" target="_blank">Jorge#603 GDPS </a>
 <img height="18" src="https://jorge603.xyz/img/hotlink-ok/jorge.gif" />
 &ensp;&emsp;<br>
 </strong></p>
