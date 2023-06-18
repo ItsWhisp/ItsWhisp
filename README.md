@@ -37,7 +37,7 @@
 <img src="https://lanyard.cnrad.dev/api/917701219160588319?bg=181825&idleMessage=No+me+encuentro+haciendo+nada+actualmente!" alt="Mi perfil de Discord">
 </a>
 
-&emsp;
+###
 
 <p>En caso de que mi discriminador desaparezca, probablemente puedas encontrarme como <strong>@ItsWhisp</strong></p>
 </div>
