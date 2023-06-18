@@ -109,7 +109,7 @@
 ###
 
 <p align="right"><strong>
-<a href="https://whisp.jorge603.xyz">Pagina Personal </a>
+<a href="https://github.com/ItsWhisp/ItsWhisp/tree/pagina">Pagina Personal </a>
 <img height="18" src="https://win98icons.alexmeub.com/icons/png/computer_2_cool-4.png" />
 &ensp;&emsp;<br>
 <a href="https://whisp.jorge603.xyz">Jorge#603 GDPS </a>
