@@ -46,7 +46,7 @@
 
 <br>
 
-<img align="right" height="240" src="https://64.media.tumblr.com/dc29c4b59317a8c0e40b3ffa1595c93e/tumblr_p6y3l0QExY1whob5so1_500.gif" />
+<img align="right" height="200" src="https://64.media.tumblr.com/dc29c4b59317a8c0e40b3ffa1595c93e/tumblr_p6y3l0QExY1whob5so1_500.gif" />
 
 <h2 align="right">👨‍💻 Actualmente Uso&emsp;</h2>
 
@@ -77,7 +77,7 @@
 
 <br>
 
-<img align="left" height="240" src="https://media.tenor.com/2PB70c2DvQkAAAAC/lucky-star-anime.gif" />
+<img align="left" height="200" src="https://media.tenor.com/2PB70c2DvQkAAAAC/lucky-star-anime.gif" />
 
 <h2 align="left">&emsp;💭 Busco Aprender</h2>
 
@@ -102,7 +102,7 @@
 
 <br>
 
-<img align="right" height="230" src="https://64.media.tumblr.com/b3df68ef0eae6210fcb3a62bc46dfcdf/tumblr_plfsim3Ite1skbmyho1_r5_400.gif" />
+<img align="right" height="200" src="https://64.media.tumblr.com/b3df68ef0eae6210fcb3a62bc46dfcdf/tumblr_plfsim3Ite1skbmyho1_r5_400.gif" />
 
 <h2 align="right">📦 Proyectos&emsp;</h2>
 
