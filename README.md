@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="left" height="240" src="https://raw.githubusercontent.com/ItsWhisp/ItsWhisp/main/assets/img/konata.png" />
+<img align="left" height="270" src="https://raw.githubusercontent.com/ItsWhisp/ItsWhisp/main/assets/img/konata.png" />
 
 <h2 align="left">✨ ItsWhisp</h2>
 
