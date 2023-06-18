@@ -8,22 +8,20 @@
 
 <div align="left">
   <a href="https://t.me/yahirag" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" height="24" alt="telegram logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="35" height="24" alt="telegram logo" />
   </a>
   <a href="https://twitter.com/whispgd_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="24" alt="twitter logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="35" height="24" alt="twitter logo" />
   </a>
   <a href="https://jorge603.xyz/discord" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="24" alt="discord logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="24" alt="discord logo" />
   </a>
   <a href="https://youtube.com/@ItsWhisp" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="24" alt="youtube logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="35" height="24" alt="youtube logo" />
   </a>
 </div>
 
 <p align="left"><strong>
-
-###
 
 &ensp;<img src="https://cdn3.emoji.gg/emojis/9669-154-konatayawn.gif" height="18px"></img> Intento de desarollador Front-End<br>
 &ensp;<img width="18" height="14" src="https://cdn3.emoji.gg/emojis/1038-costarica-flag.gif" /> Soy de Costa Rica<br>
