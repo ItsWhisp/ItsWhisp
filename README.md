@@ -26,98 +26,39 @@
   
   ###
   
-&ensp;&nbsp;<img src="https://cdn3.emoji.gg/emojis/9669-154-konatayawn.gif" height="18px"></img> Intento de desarollador Front-End<br>
+&ensp;&nbsp;<img src="https://cdn3.emoji.gg/emojis/9669-154-konatayawn.gif" height="18px"></img> desperdicio de datos en el internet<br>
 &ensp;&nbsp;<img width="18" height="14" src="https://cdn3.emoji.gg/emojis/1038-costarica-flag.gif" /> Soy de Costa Rica<br>
 &ensp;&nbsp;<img height="18" src="https://win98icons.alexmeub.com/icons/png/computer_2_cool-4.png" /> <a href="https://whisp.jorge603.xyz" target="_blank">whisp.jorge603.xyz<br></a>
 </strong></p>
 
 <br clear="both">
 
-<h1 align=center>
+<h1 align=right>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/img/icons/discord-light.png">
 <img height="22" src="assets/img/icons/discord-dark.png" />
 </picture>
- Mi perfil de Discord</h1>
+ Discord</h1>
 
-<div align="center">
+<div align="right">
 <a href="https://discord.com/users/917701219160588319"target="_blank">
 <img src="https://lanyard.cnrad.dev/api/917701219160588319?bg=181825&idleMessage=No+me+encuentro+haciendo+nada+actualmente!" alt="Mi perfil de Discord">
 </a>
 
-#
-
+<br>
 <br>
 
-<img align="right" height="200" src="https://64.media.tumblr.com/dc29c4b59317a8c0e40b3ffa1595c93e/tumblr_p6y3l0QExY1whob5so1_500.gif" />
+<img align="left" height="200" src="https://64.media.tumblr.com/b3df68ef0eae6210fcb3a62bc46dfcdf/tumblr_plfsim3Ite1skbmyho1_r5_400.gif" />
 
-<h2 align="right">👨‍💻 Actualmente Uso&emsp;</h2>
+<h2 align="left">&emsp;📦 Proyectos</h2>
 
 ###
 
-<div align="right">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
-&emsp;&ensp;
+<p align="left"><strong>
+&ensp;&emsp;<img height="18" src="https://win98icons.alexmeub.com/icons/png/computer_2_cool-4.png" /><a href="https://github.com/ItsWhisp/ItsWhisp/tree/pagina"> Pagina Personal </a>
 <br>
-<sub><s>he de ahi el porque del "intento" de desarollador, lol</s>&emsp;&emsp;</sub>
-</div>
-
-
-<br clear="both">
-
-
+&ensp;&emsp;<img height="18" src="https://jorge603.xyz/img/hotlink-ok/jorge.gif" /><a href="https://files.jorge603.xyz" target="_blank"> Files by Jorge#603 </a>
 <br>
-
-#
-
-<br>
-
-<img align="left" height="200" src="https://media.tenor.com/2PB70c2DvQkAAAAC/lucky-star-anime.gif" />
-
-<h2 align="left">&emsp;💭 Busco Aprender</h2>
-
-###
-
-<div align="left">
-  &emsp;&ensp;
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" />
-</div>
-
-<br clear="both">
-
-###
-
-<br>
-
-#
-
-<br>
-
-<img align="right" height="200" src="https://64.media.tumblr.com/b3df68ef0eae6210fcb3a62bc46dfcdf/tumblr_plfsim3Ite1skbmyho1_r5_400.gif" />
-
-<h2 align="right">📦 Proyectos&emsp;</h2>
-
-###
-
-<p align="right"><strong>
-<a href="https://github.com/ItsWhisp/ItsWhisp/tree/pagina">Pagina Personal </a>
-<img height="18" src="https://win98icons.alexmeub.com/icons/png/computer_2_cool-4.png" />
-&ensp;&emsp;<br>
-<a href="https://jorge603.xyz/gdpserver" target="_blank">Jorge#603 GDPS </a>
-<img height="18" src="https://jorge603.xyz/img/hotlink-ok/jorge.gif" />
-&ensp;&emsp;<br>
 </strong></p>
 
 <br clear="both">
@@ -141,5 +82,5 @@
 
 <br>
 <div align="center">
-  <sub>Si te ha gustado mi README, considera apoyarme dando tu estrella a este repositorio ♥️</sub>
+  <sub>☆ さて、行きましょう！</sub>
 </p>
