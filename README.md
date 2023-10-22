@@ -33,14 +33,14 @@
 
 <br clear="both">
 
-<h1 align=right>
+<h1 align=center>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/img/icons/discord-light.png">
 <img height="22" src="assets/img/icons/discord-dark.png" />
 </picture>
  Discord</h1>
 
-<div align="right">
+<div align="center">
 <a href="https://discord.com/users/917701219160588319"target="_blank">
 <img src="https://lanyard.cnrad.dev/api/917701219160588319?bg=181825&idleMessage=No+me+encuentro+haciendo+nada+actualmente!" alt="Mi perfil de Discord">
 </a>
@@ -82,5 +82,7 @@
 
 <br>
 <div align="center">
-  <sub>☆ さて、行きましょう！</sub>
-</p>
+  ☆ さて、行きましょう！
+  <br>
+  <sub>whisp — whisp.jorge603.xyz</sub>
+</div>
