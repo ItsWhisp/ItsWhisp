@@ -48,8 +48,6 @@
 <br>
 <br>
 
-###
-
 <br>
 
 <img align="left" height="200" src="https://64.media.tumblr.com/b3df68ef0eae6210fcb3a62bc46dfcdf/tumblr_plfsim3Ite1skbmyho1_r5_400.gif" />
