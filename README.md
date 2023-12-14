@@ -6,17 +6,7 @@
 
 ![Vistas del Perfil](https://views.igorkowalczyk.vercel.app/api/badge/ItsWhisp?style=for-the-badge&logo=github&color=74C7EC&logoColor=D9E0EE&labelColor=302D41&label=Vistas+del+Perfil)
 
-<div align="left">
-  <a href="https://t.me/yahirag" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="35" height="24" alt="telegram logo" />
-  </a>
-  <a href="https://twitter.com/whispgd_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="35" height="24" alt="twitter logo" />
-</div>
-
 <p align="left"><strong>
-  
-  ###
   
 <img src="https://cdn3.emoji.gg/emojis/9669-154-konatayawn.gif" height="18px"></img> desperdicio de datos en el internet<br>
 <img width="18" height="14" src="https://cdn3.emoji.gg/emojis/1038-costarica-flag.gif" /> Soy de Costa Rica<br>
