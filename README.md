@@ -1,3 +1,5 @@
+> **⚠️ El sitio web ha sido movido a su propio repositorio por comodidad, puedes ver el codigo fuente de la ultima version del sitio web [aqui](https://github.com/ItsWhisp/pagina)**
+
 # whisp.jorge603.xyz
 
 Pagina personal con la estetica de Windows 95/98, que usa HTML, CSS y JavaScript puro
