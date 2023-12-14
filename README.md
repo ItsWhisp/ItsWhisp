@@ -13,13 +13,6 @@
   </a>
   <a href="https://twitter.com/whispgd_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="35" height="24" alt="twitter logo" />
-  </a>
-  <a href="https://jorge603.xyz/discord" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="24" alt="discord logo" />
-  </a>
-  <a href="https://youtube.com/@ItsWhisp" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="35" height="24" alt="youtube logo" />
-  </a>
 </div>
 
 <p align="left"><strong>
