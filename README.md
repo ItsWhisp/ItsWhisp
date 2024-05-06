@@ -24,6 +24,8 @@
 [![](https://shields.io/badge/Svelte-0c0d0d?logo=Svelte&logoColor=f73c00&style=for-the-badge)](https://svelte.dev/)
 
 <br />
+<br />
+<br />
 
 ## Me gustaria aprender...
 
