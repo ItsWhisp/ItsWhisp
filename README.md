@@ -5,12 +5,12 @@
 <br />
 <br />
 <a href="https://discord.com/users/917701219160588319">
-<img src="https://lanyard.kyrie25.me/api/917701219160588319?bg=0c0d0d&showDisplayName=true&hideActivity=whenNotUsed&gradient=EBC7E6-BFACE2-645CBB&imgStyle=square&waveSpotifyColor=131414&waveColor=131414&idleMessage=No me encuentro haciendo nada actualmente..." height="170">
+<img src="https://lanyard.kyrie25.me/api/917701219160588319?bg=0c0d0d&showDisplayName=true&hideActivity=whenNotUsed&gradient=EBC7E6-BFACE2-645CBB&imgStyle=square&waveSpotifyColor=131414&waveColor=131414&idleMessage=No+me+encuentro+haciendo+nada+actualmente..." height="190">
 </a>
 </div>
 <h2>Actualmente uso</h2>
 
-<img src="assets/osage.png" align="right" width="200">
+<img src="assets/01.png" align="right" width="200">
 
 ### Herramientas de desarollo
 
